@@ -70,3 +70,9 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+## Reference
+https://dev.to/nedsoft/automate-nodejs-deployment-to-aws-elastic-beanstalk-with-terraform-and-codepipeline-o2c
+
+
+aws s3api  create-bucket --bucket uda-fullstack-bucket --region us-east-1 --create-bucket-configuration LocationConstraint=us-east-1
