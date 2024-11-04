@@ -2,6 +2,3 @@ terraform/.terraform
 *.lock.hcl
 *.tfstate*
 # Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
