@@ -3,3 +3,4 @@
 3. AWS Services: (RDS, EB, S3)
 4. AWS CLI v2
 5. EB CLI
+6. Terraform CLI
