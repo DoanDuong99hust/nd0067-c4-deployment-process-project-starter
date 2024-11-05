@@ -1,13 +1,13 @@
 branch-defaults:
   master:
-    environment: uda-fullstack-app-default-app-dev
+    environment: null
     group_suffix: null
 environment-defaults:
-  uda-fullstack-app-default-app-dev:
+  uda-fullstack-default-app-dev:
     branch: null
     repository: null
 global:
-  application_name: uda-fullstack-app-default-app
+  application_name: uda-fullstack-default-app
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js 20 running on 64bit Amazon Linux 2023
