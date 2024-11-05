@@ -76,3 +76,6 @@ https://dev.to/nedsoft/automate-nodejs-deployment-to-aws-elastic-beanstalk-with-
 
 
 aws s3api  create-bucket --bucket uda-fullstack-bucket --region us-east-1 --create-bucket-configuration LocationConstraint=us-east-1
+
+### Frontend Link
+http://uda-fullstack-app.s3-website-us-east-1.amazonaws.com
