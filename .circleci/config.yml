@@ -59,6 +59,10 @@ jobs:
       - aws-cli/setup
       - checkout
       - run:
+          # name: Create environment
+          # # TODO: Create ENV
+          # command: |
+          #   echo ""
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |

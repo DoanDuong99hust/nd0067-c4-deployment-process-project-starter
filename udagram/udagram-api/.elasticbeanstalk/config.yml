@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: null
+    environment: uda-fullstack-default-app-dev
     group_suffix: null
 environment-defaults:
   uda-fullstack-default-app-dev:
